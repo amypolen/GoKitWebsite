@@ -1,0 +1,9 @@
+.full-page {
+  height: calc(100vh - 48px * 2); /* Account for SECTION padding */
+}
+.padding > * {
+  margin: 16px;
+}
+#orb {
+  fill: white;
+}
